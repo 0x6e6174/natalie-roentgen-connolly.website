@@ -9,6 +9,13 @@ cat << EOF
     <meta charset="UTF-8" />
     <script src="/perlin.js"></script>
     <link rel="stylesheet" href="/style.css">
+    <meta property="og:image:url" content="https://natalie-roentgen-connolly.website/pfp.png"/>
+    <meta property="og:image:width" content="200"/>
+    <meta property="og:image:height" content="200"/>
+    <meta property="og:image:alt" content="a wireframe diagram of a siemens s700 on a white background"/>
+    <meta property="og:title" content="natalie roentgen connolly dot website">
+    <meta property="og:description" content="one of the websites of natalie roentgen connolly. this one is more than the standard amount of 'professional.'">
+    <meta property="og:url" content="https://natalie-roentgen-connolly.website">
   </head>
   <body>
     <canvas id='bg' width=400 height=400> </canvas>
