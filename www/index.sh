@@ -24,7 +24,7 @@ cat << EOF
         <div class="header">
           <img src="/pfp.png" alt="the profile photograph natalie uses, a wireframe drawing of a siemens s700" width="200">
           <div class="header-text">
-            <h1>natalie roentgen connolly</h1>
+            <h1>Natalie Roentgen Connolly</h1>
             <div style="font-size: 1rem">.website</div>
             <div class="properties">
               <div>@0x6e6174</div><div class="spacer">|</div>
@@ -43,45 +43,56 @@ cat << EOF
         <br>
         <h3>natalie elsewhere</h3>
         <div id="contact">
-          <div>discord: 0x6e6174</div>
-          <div>E-mail: natalie-roentgen-connolly at mail.natalie-roentgen-connolly.website</div>
-          <div>git(hub): <a href="https://github.com/0x6e6174">0x6e6174</a></div>
+          <div>E-mail: natalie at natalieee.net</div>
+          <div>git(hub.com): <a href="https://github.com/0x6e6174">0x6e6174</a></div>
           <div>git(.natalieee.net): <a href="https://git.natalieee.net/nat">nat</a></div>
-          <div>less {serious,"professional"} website: <a href="https://natalieee.net">natalieee.net</a></div>
+          <div>Less {serious,"professional"} website (& blog): <a href="https://natalieee.net">natalieee.net</a></div>
         </div>
       </section>
       <section id="skills">
         <h2>skills</h2>
         <ul>
-          <li>several years of python experience</li>
-          <li>vanilla javascript (& gjs)</li>
+          <li>Several years of python experience</li>
+          <li>Vanilla javascript (& gjs)</li>
           <li>linux system administration</li>
-          <li>git</li>
-          <li>html/(s)css</li>
-          <li>horrible bash scripts (like this website)</li>
-          <li>nginx</li>
+          <li>Git</li>
+          <li>HTML/(S)CSS</li>
+          <li>POSIX sh/bash scripting</li>
+          <li>Nginx</li>
+          <li>DNS</li>
         </ul>
       </section>
       <section id="experience">
-        <h2>experience</h2>
+        <h2>Experience</h2>
         <ul>
-          <li>lead programmer of FTC 267 (2021-2023)</li>
+          <li>Lead programmer of FTC 267 (2021-2023)</li>
           <ul>
-            <li>responsible for programming the robot and coordinating with the build team</li>
+            <li>Responsible for programming the robot and coordinating with the build team</li>
           </ul>
-          <li>team captain of FTC 187 (2023-2024)</li>
+          <li>Team captain of FTC 187 (2023-2024)</li>
           <ul>
-            <li>responsible for coordinating team members, delegating tasks, and other administrative duties</li>
+            <li>Responsible for coordinating team members, delegating tasks, and other administrative duties. Additionally, I continued working as a programmer during this time.</li>
           </ul>
-          <li><a href="https://github.com/Aylur/astal/pull/288">wrote python bindings for libastal</a></li>
-          <li>created <a href="https://git.natalieee.net/nat/natalie-roentgen-connolly.website">this website</a> and <a href="https://git.natalieee.net/nat/webbed-site">natalieee.net</a></li>
+          <li>Wrote <a href="https://github.com/Aylur/astal/pull/288">python bindings</a> for <a href="https://github.com/Aylur/astal/">libastal</a>*</li>
+          <li>Created this website and <a href="https://natalieee.net">natalieee.net</a></li>
+          <li>Hosted various services for myself and friends, including:
+            <ul>
+              <li>Authoritative DNS</li>
+              <li>File hosting</li>
+              <li>A Git forge</li>
+            </ul>
+          </li>
         </ul>
+        <footnote>
+           *this pull request has since been made in to a seperate repository for compliance with the direction that the libastal project is taking
+        </footnote>
       </section>
       <section>
-        <h2>education</h2>
+        <h2>Education</h2>
         <ul>
           <li>3 years at benson polytechnic highschool (2021-2024)</li>
-          <li>earned GED through PCC Yes to College program</li>
+          <li>Earned a GED through PCC's Yes to College program</li>
+          <li>Currently enrolled at PCC earning an associate's in electronic engineering technology.</li>
         </ul>
       </section>
     </main>

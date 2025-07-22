@@ -1,5 +1,3 @@
-#!/bin/bash
-
 declare -A status_code
 
 status_code[200]="OK"

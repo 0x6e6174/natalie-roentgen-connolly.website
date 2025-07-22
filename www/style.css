@@ -118,3 +118,9 @@ canvas#bg {
   height: 100vh;
   z-index: -1;
 }
+
+footnote {
+  font-size: 11px;
+  margin-top: 8px;
+  display: flex;
+}

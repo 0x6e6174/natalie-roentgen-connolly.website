@@ -1,5 +1,3 @@
-#!/bin/bash
-
 source status_codes.sh
 
 declare -A request_headers
